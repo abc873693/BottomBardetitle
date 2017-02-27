@@ -1,0 +1,14 @@
+<tabs>
+    <tab
+        id="@+id/tab_access_alarm"
+        icon="@drawable/ic_access_alarm"
+        title="" />
+    <tab
+        id="@+id/tab_add_circle"
+        icon="@drawable/ic_add_circle"
+        title="" />
+    <tab
+        id="@+id/tab_attach_file"
+        icon="@drawable/ic_attach_file"
+        title="" />
+</tabs>
